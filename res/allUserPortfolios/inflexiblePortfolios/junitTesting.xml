@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio creation-date="2022-11-02">
+    <Portfolio-Name>ea1232ee-3f2a-4561-8408-7335da0c58f6</Portfolio-Name>
+    <Stock>
+        <Stock-ticker>AAPL</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>30</Number-of-shares>
+    </Stock>
+    <Stock>
+        <Stock-ticker>AMZN</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>40</Number-of-shares>
+    </Stock>
+    <Stock>
+        <Stock-ticker>BAC</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>10</Number-of-shares>
+    </Stock>
+</Portfolio>

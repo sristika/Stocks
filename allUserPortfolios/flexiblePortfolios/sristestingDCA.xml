@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio creation-date="2022-10-02">
+                
+    
+    
+    <Portfolio-Name>sristestingDCA</Portfolio-Name>
+            
+    
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>BAC</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-11</Date>
+                        
+        
+        <Number-of-shares>13.436345314074572</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>USAU</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-11</Date>
+                        
+        
+        <Number-of-shares>54.05405405405405</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>VOD</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-11</Date>
+                        
+        
+        <Number-of-shares>53.66726296958855</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-11</Date>
+                        
+        
+        <Number-of-shares>7.129489350325283</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>BAC</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-18</Date>
+                        
+        
+        <Number-of-shares>11.467889908256879</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>USAU</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-18</Date>
+                        
+        
+        <Number-of-shares>55.55555555555556</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>VOD</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-18</Date>
+                        
+        
+        <Number-of-shares>52.35602094240837</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-18</Date>
+                        
+        
+        <Number-of-shares>6.875214850464077</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>BAC</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-25</Date>
+                        
+        
+        <Number-of-shares>11.302627860977678</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>USAU</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-25</Date>
+                        
+        
+        <Number-of-shares>54.49591280653951</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>VOD</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-25</Date>
+                        
+        
+        <Number-of-shares>52.03816131830009</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                        
+        
+        <Commission>0.0</Commission>
+                        
+        
+        <Date>2022-10-25</Date>
+                        
+        
+        <Number-of-shares>6.633499170812604</Number-of-shares>
+                    
+    
+    </Stock>
+        
+    
+    <Stock>
+                
+        <Stock-ticker>AAPL</Stock-ticker>
+                
+        <Commission>0.0</Commission>
+                
+        <Date>2022-10-09</Date>
+                
+        <Number-of-shares>2</Number-of-shares>
+            
+    </Stock>
+        
+    <Stock>
+                
+        <Stock-ticker>NFLX</Stock-ticker>
+                
+        <Commission>0.0</Commission>
+                
+        <Date>2022-10-20</Date>
+                
+        <Number-of-shares>3</Number-of-shares>
+            
+    </Stock>
+    
+    <Stock>
+        <Stock-ticker>AMZN</Stock-ticker>
+        <Commission>0.0</Commission>
+        <Number-of-shares>-4</Number-of-shares>
+        <Date>2022-10-30</Date>
+    </Stock>
+</Portfolio>

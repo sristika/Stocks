@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio creation-date="2007-10-07">
+                
+    
+    
+    <Portfolio-Name>junitTesting</Portfolio-Name>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>AAPL</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2007-10-07</Date>
+                                
+        
+        
+        <Number-of-shares>30</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2007-10-07</Date>
+                                
+        
+        
+        <Number-of-shares>40</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>BAC</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2007-10-07</Date>
+                                
+        
+        
+        <Number-of-shares>10</Number-of-shares>
+                            
+    
+    
+    </Stock>
+            
+    
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>GOOGL</Stock-ticker>
+                        
+        
+        <Commission>20.0</Commission>
+                        
+        
+        <Date>2018-05-01</Date>
+                        
+        
+        <Number-of-shares>30</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>AAPL</Stock-ticker>
+                        
+        
+        <Commission>20.0</Commission>
+                        
+        
+        <Date>2019-09-10</Date>
+                        
+        
+        <Number-of-shares>20</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>BAC</Stock-ticker>
+                        
+        
+        <Commission>20.0</Commission>
+                        
+        
+        <Date>2021-01-31</Date>
+                        
+        
+        <Number-of-shares>10</Number-of-shares>
+                    
+    
+    </Stock>
+        
+    
+    <Stock>
+                
+        <Stock-ticker>GOOGL</Stock-ticker>
+                
+        <Commission>20.0</Commission>
+                
+        <Date>2021-11-30</Date>
+                
+        <Number-of-shares>10</Number-of-shares>
+            
+    </Stock>
+    
+    <Stock>
+        <Stock-ticker>GOOGL</Stock-ticker>
+        <Commission>20.0</Commission>
+        <Number-of-shares>-10</Number-of-shares>
+        <Date>2021-11-30</Date>
+    </Stock>
+</Portfolio>

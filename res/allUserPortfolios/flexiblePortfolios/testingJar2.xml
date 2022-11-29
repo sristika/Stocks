@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio creation-date="2022-01-01">
+                
+    
+    
+    <Portfolio-Name>testingJar2</Portfolio-Name>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                                
+        
+        
+        <Commission>10.0</Commission>
+                                
+        
+        
+        <Date>2022-01-01</Date>
+                                
+        
+        
+        <Number-of-shares>20</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>MSFT</Stock-ticker>
+                                
+        
+        
+        <Commission>10.0</Commission>
+                                
+        
+        
+        <Date>2022-01-01</Date>
+                                
+        
+        
+        <Number-of-shares>20</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>GOOGL</Stock-ticker>
+                                
+        
+        
+        <Commission>10.0</Commission>
+                                
+        
+        
+        <Date>2022-01-01</Date>
+                                
+        
+        
+        <Number-of-shares>10</Number-of-shares>
+                            
+    
+    
+    </Stock>
+            
+    
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                        
+        
+        <Commission>10.0</Commission>
+                        
+        
+        <Date>2022-02-20</Date>
+                        
+        
+        <Number-of-shares>20</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>MDB</Stock-ticker>
+                        
+        
+        <Commission>10.0</Commission>
+                        
+        
+        <Date>2022-02-02</Date>
+                        
+        
+        <Number-of-shares>40</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>JPM</Stock-ticker>
+                        
+        
+        <Commission>10.0</Commission>
+                        
+        
+        <Date>2022-06-17</Date>
+                        
+        
+        <Number-of-shares>30</Number-of-shares>
+                    
+    
+    </Stock>
+        
+    
+    <Stock>
+                
+        <Stock-ticker>MDB</Stock-ticker>
+                
+        <Commission>10.0</Commission>
+                
+        <Number-of-shares>-20</Number-of-shares>
+                
+        <Date>2022-08-16</Date>
+            
+    </Stock>
+    
+    <Stock>
+        <Stock-ticker>MDB</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Number-of-shares>-10</Number-of-shares>
+        <Date>2022-10-11</Date>
+    </Stock>
+</Portfolio>

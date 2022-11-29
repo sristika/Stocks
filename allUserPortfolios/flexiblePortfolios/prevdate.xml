@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio creation-date="2022-06-10">
+                
+    
+    
+    <Portfolio-Name>prevdate</Portfolio-Name>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>VOD</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2022-06-10</Date>
+                                
+        
+        
+        <Number-of-shares>15</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>AAPL</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2022-06-10</Date>
+                                
+        
+        
+        <Number-of-shares>12</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>JPM</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2022-06-10</Date>
+                                
+        
+        
+        <Number-of-shares>15</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>NFLX</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2022-06-10</Date>
+                                
+        
+        
+        <Number-of-shares>8</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>GOOGL</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2022-06-10</Date>
+                                
+        
+        
+        <Number-of-shares>10</Number-of-shares>
+                            
+    
+    
+    </Stock>
+                
+    
+    
+    <Stock>
+                                
+        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                                
+        
+        
+        <Commission>20.0</Commission>
+                                
+        
+        
+        <Date>2022-06-10</Date>
+                                
+        
+        
+        <Number-of-shares>5</Number-of-shares>
+                            
+    
+    
+    </Stock>
+            
+    
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>USAU</Stock-ticker>
+                        
+        
+        <Commission>20.0</Commission>
+                        
+        
+        <Date>2022-06-13</Date>
+                        
+        
+        <Number-of-shares>5</Number-of-shares>
+                    
+    
+    </Stock>
+        
+    
+    <Stock>
+                
+        <Stock-ticker>AAPL</Stock-ticker>
+                
+        <Commission>20.0</Commission>
+                
+        <Number-of-shares>-5</Number-of-shares>
+                
+        <Date>2022-06-14</Date>
+            
+    </Stock>
+    
+    <Stock>
+        <Stock-ticker>BAC</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-06-20</Date>
+        <Number-of-shares>7</Number-of-shares>
+    </Stock>
+</Portfolio>

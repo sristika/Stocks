@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio>
+    <Portfolio-Name>abcd</Portfolio-Name>
+    <Stock date="2022-11-13" ticker="ETSY">
+        <Shares-owned>30</Shares-owned>
+        <Stock-ticker>ETSY</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-13</Date>
+    </Stock>
+    <Stock date="2022-11-13" ticker="JPM">
+        <Shares-owned>40</Shares-owned>
+        <Stock-ticker>JPM</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-13</Date>
+    </Stock>
+    <Stock date="2022-11-13" ticker="BAC">
+        <Shares-owned>50</Shares-owned>
+        <Stock-ticker>BAC</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-13</Date>
+    </Stock>
+    <Stock date="2022-11-13" ticker="USAU">
+        <Shares-owned>70</Shares-owned>
+        <Stock-ticker>USAU</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-13</Date>
+    </Stock>
+</Portfolio>

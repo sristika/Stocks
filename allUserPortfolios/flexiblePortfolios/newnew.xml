@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio>
+    <Portfolio-Name>newnew</Portfolio-Name>
+    <Stock date="2022-11-14" ticker="NFLX">
+        <Stock-ticker>NFLX</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-13</Date>
+        <Number-of-shares>20</Number-of-shares>
+    </Stock>
+    <Stock date="2022-11-14" ticker="IBM">
+        <Stock-ticker>IBM</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-13</Date>
+        <Number-of-shares>50</Number-of-shares>
+    </Stock>
+    <Stock date="2022-11-14" ticker="BAC">
+        <Stock-ticker>BAC</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-13</Date>
+        <Number-of-shares>60</Number-of-shares>
+    </Stock>
+</Portfolio>

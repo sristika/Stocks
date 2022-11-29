@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio>
+    <Portfolio-Name>inflextTest</Portfolio-Name>
+    <Stock date="2022-11-02" ticker="IBM">
+        <Shares-owned>45</Shares-owned>
+        <Stock-ticker>IBM</Stock-ticker>
+        <Date>2022-11-02</Date>
+    </Stock>
+    <Stock date="2022-11-02" ticker="USAU">
+        <Shares-owned>13</Shares-owned>
+        <Stock-ticker>USAU</Stock-ticker>
+        <Date>2022-11-02</Date>
+    </Stock>
+</Portfolio>

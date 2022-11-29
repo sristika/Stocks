@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio creation-date="2022-11-02">
+    <Portfolio-Name>inflexible</Portfolio-Name>
+    <Stock>
+        <Stock-ticker>WBD</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>20</Number-of-shares>
+    </Stock>
+    <Stock>
+        <Stock-ticker>NFLX</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>10</Number-of-shares>
+    </Stock>
+    <Stock>
+        <Stock-ticker>VOD</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>30</Number-of-shares>
+    </Stock>
+    <Stock>
+        <Stock-ticker>MSFT</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>5</Number-of-shares>
+    </Stock>
+    <Stock>
+        <Stock-ticker>ETSY</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>20</Number-of-shares>
+    </Stock>
+    <Stock>
+        <Stock-ticker>IBM</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>25</Number-of-shares>
+    </Stock>
+</Portfolio>

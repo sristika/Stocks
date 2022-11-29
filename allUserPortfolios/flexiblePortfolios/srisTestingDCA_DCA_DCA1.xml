@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DCA>
+            
+    
+    <Finished>true</Finished>
+            
+    
+    <Last-updated>2022-11-29</Last-updated>
+            
+    
+    <Total>2000</Total>
+            
+    
+    <Start>2022-10-11</Start>
+            
+    
+    <End>2022-10-30</End>
+            
+    
+    <Frequency>7</Frequency>
+            
+    
+    <Proportions>
+                        
+        
+        <BAC>400.0</BAC>
+                        
+        
+        <USAU>200.0</USAU>
+                        
+        
+        <VOD>600.0</VOD>
+                        
+        
+        <AMZN>800.0</AMZN>
+                    
+    
+    </Proportions>
+        
+
+</DCA>

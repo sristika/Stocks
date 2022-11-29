@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio>
+                
+    
+    
+    <Portfolio-Name>flexTest</Portfolio-Name>
+                
+    
+    
+    <Stock date="2022-11-02" ticker="DASH">
+                                
+        
+        
+        <Shares-owned>5</Shares-owned>
+                                
+        
+        
+        <Stock-ticker>DASH</Stock-ticker>
+                                
+        
+        
+        <Date>2022-11-02</Date>
+                            
+    
+    
+    </Stock>
+            
+    
+    
+    <Stock date="2022-11-02" ticker="AMZN">
+                        
+        
+        <Stock-ticker>AMZN</Stock-ticker>
+                        
+        
+        <Commission>10.0</Commission>
+                        
+        
+        <Shares>15</Shares>
+                        
+        
+        <Date>2022-11-02</Date>
+                    
+    
+    </Stock>
+        
+    
+    <Stock date="2022-11-02" ticker="AMZN">
+                
+        <Shares-owned>-5</Shares-owned>
+                
+        <Stock-ticker>AMZN</Stock-ticker>
+                
+        <Commission>10.0</Commission>
+                
+        <Date>2022-11-02</Date>
+            
+    </Stock>
+    
+    <Stock date="2022-11-02" ticker="AMZN">
+        <Shares-owned>-5</Shares-owned>
+        <Stock-ticker>AMZN</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Date>2022-11-02</Date>
+    </Stock>
+</Portfolio>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio creation-date="2022-11-14">
+            
+    
+    <Portfolio-Name>srisFlex1</Portfolio-Name>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>VOD</Stock-ticker>
+                        
+        
+        <Commission>10.0</Commission>
+                        
+        
+        <Date>2022-11-07</Date>
+                        
+        
+        <Number-of-shares>10</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>NFLX</Stock-ticker>
+                        
+        
+        <Commission>10.0</Commission>
+                        
+        
+        <Date>2022-11-07</Date>
+                        
+        
+        <Number-of-shares>20</Number-of-shares>
+                    
+    
+    </Stock>
+            
+    
+    <Stock>
+                        
+        
+        <Stock-ticker>MS</Stock-ticker>
+                        
+        
+        <Commission>10.0</Commission>
+                        
+        
+        <Date>2022-11-07</Date>
+                        
+        
+        <Number-of-shares>15</Number-of-shares>
+                    
+    
+    </Stock>
+        
+    
+    <Stock>
+                
+        <Stock-ticker>MS</Stock-ticker>
+                
+        <Commission>10.0</Commission>
+                
+        <Date>2022-11-09</Date>
+                
+        <Number-of-shares>20</Number-of-shares>
+            
+    </Stock>
+    
+    <Stock>
+        <Stock-ticker>MS</Stock-ticker>
+        <Commission>10.0</Commission>
+        <Number-of-shares>-10</Number-of-shares>
+        <Date>2022-11-10</Date>
+    </Stock>
+</Portfolio>

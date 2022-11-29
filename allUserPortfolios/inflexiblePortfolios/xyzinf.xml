@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio>
+    <Portfolio-Name>xyzinf</Portfolio-Name>
+    <Stock date="2022-11-02" ticker="JPM">
+        <Stock-ticker>JPM</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>25</Number-of-shares>
+    </Stock>
+    <Stock date="2022-11-02" ticker="WBD">
+        <Stock-ticker>WBD</Stock-ticker>
+        <Date>2022-11-02</Date>
+        <Number-of-shares>10</Number-of-shares>
+    </Stock>
+</Portfolio>
