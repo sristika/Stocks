@@ -1,0 +1,53 @@
+Design critique:
+
+A good feature of the design is that a separate package and class handles the API data. An object of the API class is sent from the controller to choose the API to work with. This design would thus need minimal changes in the future to work with different APIs. 
+One flaw I find with the model is that the classes that implement a flexible and inflexible portfolio are abstract classes. 
+While such an implementation is working with the code just fine, having your main model classes be abstract is a bad design, in our opinion. The main model classes for flexible and inflexible portfolios should be concrete and have methods within them that are only needed for these classes.
+Supporting classes are used to extend from these main model classes to perform I/O operations or to perform input validations. Such classes ideally shouldn't be part of the model package. Instead, a utility package could be created to perform I/O operations and to perform validations. This would isolate the model with the functionalities that just the model needs to perform. 
+
+A good design has been thought by the team where they have utilized command design pattern to run commands from the controller instead of switch statements.
+One of the parameters of improvement could be creating only classes that are actually required. Currently there are 4 different controller classes. The operations of these controllers could be performed with just 3 classes(or fewer).
+Better names could have also been used for the controller classes to help differentiate between them easily.
+
+Another flaw we noticed in the view package is that some views contain logic of the code. This way the view tells the model in what format it expects its outputs.
+For example, the value of the stock is calculated in the view by fetching the StockNode(a class in model package) object and then fetching it's price and share. 
+Ideally the view should be isolated from this logic and such operations should be shifted to the controller. The view shouldn't have access to any components in the model.
+
+Another flaw with the design is that there is no option to persist a portfolio in any object. Due to which everytime for every operation a portfolio name needs to be entered.
+While this is not a major flaw, when a user chooses to work with a specific object - this could be saved to a portfolio object. So that the user can then perform other operations too on this portfolio without having to enter portfolio name everytime.
+
+
+Implementation critique: 
+
+Most of the implemenations are clean with function blocks that are concise. They have implemented command design pattern in the controller, which is a good approach instead of switch statements. This helps the code to be scalable better.
+However, we found the following shortcomings in implementation: function names are not descreptive enough in themselves. The code within some functions are not specific, where even other functions are being called. This creates a coupling and could lead to issues in the code when one function or the other is changed. 
+Ideally, these functions should only perform responsibilities specific to them.
+
+While creating a portfolio, the user input format is not ideal as the user has to enter stock tickers along with shares continuously, separated by a comma. For eg: AMZN 10, NFLX 30, BAC 5.
+This is prone to errors as if the user enters a space before a new portfolio name, it still takes in that input but breaks the code without throwing any errors. 
+A different approach could be used to enter ticker and share values separately, or an error handling mechanism could be utilized to handle such situations.
+
+In their implementation the model does not allow handle buying or selling fractional shares. We believe the model should allow this, while the controller restricts that the user input only whole number amount of shares.
+In the GUI view, long lambda functions are written. This code could be a part of a separate function or class. Having long lambda functions makes it unreadable.
+
+
+Documentation critique:
+
+The team has provided good documentation of their functions and interfaces that helps to explain their respective functionalities. Documentation helped us understand the roles and working of different functions.
+
+
+Design/code strengths:
+
+Team has implemented a good design with the possibility of scalability and deploying new features with minimal changes to exisitng code. 
+One of the major strengths of the code is that functions in the controller are easy to interpret due to a command design pattern. This allows not having hefty code in the controller.
+The ability to add a new API can also be done with ease as the changes need to be made in the controller only after a new API class has been created in the setup package.
+
+Design/code weakness:
+
+There is not clear distinction between the different components of the MVC as the view also performs some logic operations. 
+Few classes are redundant which has functions that could be a part of another package or could be part of another class in the same model package.
+Some functionalities display unspecific invalid prompts for input entries. This could lead to ambiguity when the user is not told which specific input is not according to what the program expects. 
+
+
+
+  

@@ -1,27 +1,41 @@
-We have implemented a flexible and an inflexible portfolio in this assignment.
+Below are the features of program that are working and are complete.
 
-Following features are working in the respective portfolios.
+1. User is successfully able to Create Flexible and Inflexible Portfolios.
 
-Flexible Portfolio:
-1) Allow a user to create one or more portfolios on a particular date(which is not in the future) with shares of one or more stocks.
-2) Purchase stocks into a portfolio on a particular date from the list of supported stocks.
-3) Sell stocks from a portfolio on a particular date from the list of supported stocks.
-4) Examine the composition of a portfolio.
-5) Find the total value of a portfolio on a particular date, if a date before the portfolio creation is entered, it returns 0.
-6) Find the cost basis of a portfolio on a particular date.
-7) Creates a performance chart of the value of a portfolio over the time period mentioned by the user. To accommodate both small and large ranges of data, the program chooses a base value, timestamps and scale dynamically.
-8) Allows user to change the commission that is being charged on every purchase/sale of a stock. Commission can be set from the flexible portfolio menu so that the user does not have to manually enter the commission everytime they buy/sell a stock.
-9) Save and retrieve files in XML format.
-10) User can also enter input an xml file directly in the flexiblePortfolios/inflexiblePortfolios directory present in res folder and then work on those files in the program.
-11) The application will be able to support new APIs that might be required in the future.
+2. User is successfully able to Create Portfolio either by :
+	a.)Adding path of a csv file that contains valid ticker values and number of shares.
+	b.)Manually entering all the ticker values and number of shares.
 
-Inflexible Portfolio:
-1) Allow a user to create one or more portfolio with shares of one or more stock. User cannot add or remove shares from portfolio after creating it.
-2) Examine the compositions of a portfolio.
-3) Determine the total value of a portfolio on certain date, provided it is in the date range supported by this program. 
-4) Save to and retrieve portfolios from a file.
-5) The program handles invalid data by asking the user to enter again or enter quit to not move ahead.
-6) The program handles the case where user enters a holiday to get total value by asking them to enter a business day instead.
-7) The program handles cases where the user enters a ticker and number of shares once and again enters the same ticker with number of shares later, by adding the number of shares entered each time and storing it in a single xml element of the ticker. 
-8) The system supports both entering portfolio data manually in the terminal and entering portfolio as an XML file. 
+3. Once user have created Portfolio, user is also able to view the created portfolio by selecting
+view portfolio composition option from the menu.
+
+4. Program is successfully able to calculate the value of portfolio.
+
+5. Program successfully allows users to download and save a duplicate of the portfolio composition locally.
+(Portfolio is automatically saved when user creates the portfolio).
+
+6. Program allows user to invest a certain amount in an existing portfolio on a specified date.
+The user can specify what percentage of the amount invested is allocated to each company in the portfolio.
+
+7. The user can create a new portfolio, and do recurring investments in the portfolio over a user specified
+ period of time. The user decides the companies and how much percentage of the investments go to each company
+ in the portfolio. The user also decides the frequency of the investments.
+ And all this is achieved in a single operation - Dollar Cost Averaging.
+
+
+
+
+Additionally, For Inflexible Portfolio:
+
+7. User is able to Buy shares and add to an existing portfolio.
+
+8. User is able to Sell shares from an existing portfolio.
+
+9. Program is successfully able to calculate the value of portfolio on a certain date.
+
+10. Program is successfully able to calculate the cost basis of portfolio on a certain date.
+
+11. Program is successfully able to display the bar chart of performance of portfolio over time.
+
+
 
